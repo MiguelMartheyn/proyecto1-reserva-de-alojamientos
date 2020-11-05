@@ -1,0 +1,136 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  display: center;
+  padding-right: 100%;
+  padding-left: 5%;
+}
+.img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+.imagen {
+  margin: 10px;
+  margin-top: 30px;
+  height: 100px;
+  width: 100px;
+  box-shadow: -3px 3px 2px -1px rgba(0, 0, 0, 0.4);
+}
+
+.contenedor {
+  width: 362px;
+  height: 100%;
+  text-align: center;
+  box-shadow: -1px -1px 3px 5px rgba(0, 0, 0, 0.4);
+  margin-bottom: 10px;
+  margin-left: 37%;
+  margin-right: 37%;
+  /*border: 1px solid red;*/
+}
+.composicion {
+  height: 120px;
+  width: 360px;
+  border: 1px solid #555;
+  margin-bottom: 30px;
+  margin-left: 0%;
+  margin-right: 10%;
+  background-image: url(https://i.pinimg.com/originals/a5/c8/c4/a5c8c43b2274b942d7deb31796796bbd.jpg);
+  object-fit: cover;
+  background-size: cover;
+}
+
+.year {
+  font-size: 13px;
+  color: chocolate;
+  float: center;
+  font-weight: bold;
+}
+
+.artista {
+  font-weight: bold;
+  font-size: 15px;
+  color: gray;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 15px;
+  width: 339px;
+  color: rgb(43, 38, 38);
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+  padding-top: 4px;
+}
+.container-name-like {
+  height: 25px;
+  width: 360px;
+  background-color: whitesmoke;
+}
+.like {
+  height: 20px;
+  width: 20px;
+  box-shadow: -3px 3px 2px -1px rgba(0, 0, 0, 0.4);
+}
+
+.like-contenedor {
+  float: right;
+  margin-right: 1px;
+  cursor: pointer;
+}
+.foto {
+  height: 50px;
+  width: 50px;
+  box-shadow: -3px 3px 2px -1px rgba(0, 0, 0, 0.4);
+  margin-right: 5px;
+  margin-top: 0px;
+}
+
+.foto-contenedor {
+  float: right;
+  margin-top: 10px;
+  display: block;
+  justify-content: center;
+}
+.container-artista-foto {
+  height: 25px;
+  width: 360px;
+  float: center;
+}
+
+.checked {
+  color: orange;
+}
+.estrellas {
+  margin: 0 auto;
+  position: relative;
+  text-align: right;
+}
+.c-pointer {
+  cursor: pointer;
+}
+.califica {
+  display: flex;
+  justify-content: flex-start;
+}
+.cuadro-calificacion {
+  display: flex;
+  margin-top: 50px;
+  margin-right: 0px;
+}
+.titulo-califica {
+  font-size: 13px;
+  font-weight: bold;
+  margin-right: 10px;
+  margin-left: 140px;
+  color: firebrick;
+}
