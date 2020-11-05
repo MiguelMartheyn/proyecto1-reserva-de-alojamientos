@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/proyecto1-reserva-de-alojamientos/static/css/main.01007143.chunk.css",
+    "main.js": "/proyecto1-reserva-de-alojamientos/static/js/main.eb008d45.chunk.js",
+    "main.js.map": "/proyecto1-reserva-de-alojamientos/static/js/main.eb008d45.chunk.js.map",
+    "runtime-main.js": "/proyecto1-reserva-de-alojamientos/static/js/runtime-main.f4489289.js",
+    "runtime-main.js.map": "/proyecto1-reserva-de-alojamientos/static/js/runtime-main.f4489289.js.map",
+    "static/js/2.4037962f.chunk.js": "/proyecto1-reserva-de-alojamientos/static/js/2.4037962f.chunk.js",
+    "static/js/2.4037962f.chunk.js.map": "/proyecto1-reserva-de-alojamientos/static/js/2.4037962f.chunk.js.map",
+    "index.html": "/proyecto1-reserva-de-alojamientos/index.html",
+    "precache-manifest.06dd404262f76a7e62a6eef618613145.js": "/proyecto1-reserva-de-alojamientos/precache-manifest.06dd404262f76a7e62a6eef618613145.js",
+    "service-worker.js": "/proyecto1-reserva-de-alojamientos/service-worker.js",
+    "static/css/main.01007143.chunk.css.map": "/proyecto1-reserva-de-alojamientos/static/css/main.01007143.chunk.css.map",
+    "static/js/2.4037962f.chunk.js.LICENSE.txt": "/proyecto1-reserva-de-alojamientos/static/js/2.4037962f.chunk.js.LICENSE.txt",
+    "static/media/alto-atacama.jpg": "/proyecto1-reserva-de-alojamientos/static/media/alto-atacama.632f5b25.jpg",
+    "static/media/azur-real.jpg": "/proyecto1-reserva-de-alojamientos/static/media/azur-real.7c8f1bd2.jpg",
+    "static/media/campo-tinto.jpg": "/proyecto1-reserva-de-alojamientos/static/media/campo-tinto.ee9a6135.jpg",
+    "static/media/casa-higueras.jpg": "/proyecto1-reserva-de-alojamientos/static/media/casa-higueras.b1c377cc.jpg",
+    "static/media/casa-turquesa.jpg": "/proyecto1-reserva-de-alojamientos/static/media/casa-turquesa.f91c2e01.jpg",
+    "static/media/entre-cielos.jpg": "/proyecto1-reserva-de-alojamientos/static/media/entre-cielos.63abb3f6.jpg",
+    "static/media/styles.css": "/proyecto1-reserva-de-alojamientos/static/media/plantilla - banner_Mesa de trabajo 1.43e1212a.jpg",
+    "static/media/huacalera.jpg": "/proyecto1-reserva-de-alojamientos/static/media/huacalera.ea003688.jpg",
+    "static/media/la-bamba-de-areco.jpg": "/proyecto1-reserva-de-alojamientos/static/media/la-bamba-de-areco.07731eba.jpg",
+    "static/media/luma-casa-de-montana.jpg": "/proyecto1-reserva-de-alojamientos/static/media/luma-casa-de-montana.5f33c377.jpg",
+    "static/media/merced-del-alto.jpg": "/proyecto1-reserva-de-alojamientos/static/media/merced-del-alto.4fba0fc1.jpg",
+    "static/media/ponta-dos-ganchos.jpg": "/proyecto1-reserva-de-alojamientos/static/media/ponta-dos-ganchos.f24a2410.jpg",
+    "static/media/rincon-del-socorro.jpg": "/proyecto1-reserva-de-alojamientos/static/media/rincon-del-socorro.e8d6823f.jpg",
+    "static/media/sainte-jeanne.jpg": "/proyecto1-reserva-de-alojamientos/static/media/sainte-jeanne.472d43c7.jpg",
+    "static/media/tierra-patagonia.jpg": "/proyecto1-reserva-de-alojamientos/static/media/tierra-patagonia.7a577091.jpg",
+    "static/media/uxua-casa.jpg": "/proyecto1-reserva-de-alojamientos/static/media/uxua-casa.a77b33b2.jpg",
+    "static/media/vik-chile.jpg": "/proyecto1-reserva-de-alojamientos/static/media/vik-chile.e578428a.jpg",
+    "static/media/vila-da-santa.jpg": "/proyecto1-reserva-de-alojamientos/static/media/vila-da-santa.cb67834d.jpg",
+    "static/media/vira-vira.jpg": "/proyecto1-reserva-de-alojamientos/static/media/vira-vira.22300bcf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4489289.js",
+    "static/js/2.4037962f.chunk.js",
+    "static/css/main.01007143.chunk.css",
+    "static/js/main.eb008d45.chunk.js"
+  ]
+}
