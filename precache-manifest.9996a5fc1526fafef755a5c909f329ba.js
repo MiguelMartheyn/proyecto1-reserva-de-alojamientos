@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d6b0360e7a6d05e538eb6f5d74f6cc2",
+    "revision": "cbfc5bb05fbb7f36835ff1eb5f5f160f",
     "url": "/proyecto1-reserva-de-alojamientos/index.html"
   },
   {
-    "revision": "bc557732307986d6426d",
-    "url": "/proyecto1-reserva-de-alojamientos/static/css/main.01007143.chunk.css"
+    "revision": "7afbb6ed25a2a282bc7c",
+    "url": "/proyecto1-reserva-de-alojamientos/static/css/main.9455e59b.chunk.css"
   },
   {
     "revision": "69c2242d59c17d9cef81",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/proyecto1-reserva-de-alojamientos/static/js/2.4037962f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc557732307986d6426d",
+    "revision": "7afbb6ed25a2a282bc7c",
     "url": "/proyecto1-reserva-de-alojamientos/static/js/main.eb008d45.chunk.js"
   },
   {
