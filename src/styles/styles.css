@@ -17,6 +17,8 @@ body {
   margin-left: 0px;
   margin-right: 0px;
   display: flex;
+  
+
 }
 .header_logo img {
   width: 200px;
@@ -267,6 +269,17 @@ input:hover {
   .border_underline {
     margin: auto;
     margin-top: 50px;
+  }
+  .header {
+    padding: 2%;
+    padding-top: 2%;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+  
   }
 }
 /*Final Resposive Designe del Banner y decoracion descripcion final*/
